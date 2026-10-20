@@ -1,7 +1,7 @@
 
 <div align="center">
 
-#Dream is a mask
+# Dream is a mask
 
 ### Разработчик
 
@@ -40,11 +40,3 @@
 - 💻 **GitHub:** [Dream is a mask](https://github.com/dream5664che-lab)
 - 🌐 **Мой сайт:** [Dream is a mask](https://dream5664che-lab.github.io/web-site)
 - 💬 **Telegram:** [Мой Telegram](https://t.me/Dream_is_a_mask_officialE)
-
----
-
-<div align="center">
-
-*Dream is a mask.*
-
-</div>
